@@ -1,4 +1,8 @@
 ## Sales Insights Data Analysis Project
+Dataset from Atliq Technologies was used to obtain insights from sales data by creating an interactive dashboard for taking data driven decisions.
+Performed EDA (Exploratory Data Analysis) on the dataset using Power BI for deriving key insights
+Power BI was used to create an interactive dashboard showing information about the top five customers, revenue by market information, top five products
+
 
 
 ### Data Analysis Using SQL
